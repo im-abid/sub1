@@ -1,0 +1,264 @@
+.d1 {
+    text-align: right;
+    margin-right: 90px;
+    margin-top: 120px;
+    padding-top: 200px;
+    padding-right: 00px;
+}
+
+.head1 {
+
+
+
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 65px;
+
+    text-align: right;
+
+}
+
+.p1 {
+    font-family: 'Work Sans';
+    text-align: right;
+
+    height: 78px;
+
+    margin: top 468px;
+    margin: bottom 262px;
+    margin: left 87px;
+    margin: right 230p;
+}
+
+/* There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words */
+
+/*.b1
+ {
+    color: rgb(243, 249, 255);
+
+    border-right: 110px margin-right; 110px;
+    background: #fd6e0a;
+    padding: 10px, 30px;
+    margin: 40px, 35px;
+}*/
+.n3 {
+    text-align: center;
+}
+
+
+
+
+.n2 {
+    text-align: center;
+    display: flex;
+
+}
+
+
+.p2 {
+    position: absolute;
+    width: 416px;
+    height: 104px;
+    left: 780px;
+    top: 1160px;
+
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+
+
+
+
+
+}
+
+.head3 {
+    position: absolute;
+    width: 288px;
+    height: 94px;
+    left: 780px;
+    top: 1000px;
+    font-size: large;
+
+
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+
+}
+
+ul {
+    position: absolute;
+    width: 349px;
+    height: 162px;
+    left: 760px;
+    top: 1250px;
+}
+
+.n3 {
+    text-align: center;
+    margin: top 1178px;
+    margin: right 322px;
+    margin: left 860px;
+
+    border: 416px, 400px;
+}
+
+.line1 {
+    text-align: center;
+    font-family: sans-serif;
+    font-size: x-large;
+}
+
+.div3 {
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+    padding: 4px;
+    margin-top: 60px;
+
+
+}
+
+
+
+.divo {
+    background-image: url(./banner1.png);
+
+    background-repeat: no-repeat;
+    border: 1600px, 808px;
+    background-position: top;
+}
+
+.btn1 {
+    background-color: orangered;
+    /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: left 10px;
+}
+
+.div4 {
+    background-image: url(./watch.png);
+
+
+    background-repeat: no-repeat;
+    margin-left: 100px;
+    margin: right 300px;
+    margin: top 1100px;
+    margin-bottom: 40px;
+
+
+
+}
+
+.btn2 {
+    background-color: orangered;
+    font-family: 'Work Sans';
+    font-style: normal;
+    line-height: 23px;
+    text-align: center;
+    color: #f1eeec;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    padding: 7px, 7px;
+    font-size: 16px;
+    border: none;
+
+
+
+}
+
+.head2 {
+
+    color: #FFFFFF;
+    margin: left 64px;
+}
+
+.l4 {
+    margin-left: 100px;
+
+}
+
+.plast {
+
+    color: #F8F8F8
+}
+
+.div5 {
+    background-color: black;
+    display: flex;
+}
+
+.section1 {
+    background-color: black;
+    display: flex;
+    gap: 250px;
+    margin-right: 50p;
+    color: #FFFFFF;
+    margin-top: 20px;
+}
+
+.divlast {
+    margin-left: 150px;
+    margin-top: 30px;
+
+
+}
+
+.a2 {
+    margin-left: 100px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+
+}
+
+input {
+    border: solid 1px;
+    background-color: black;
+    color: white;
+    height: 29px;
+    width: 290px;
+    font-size: large;
+    
+
+}
+
+.btn3 {
+    background-color: white;
+    font-family: 'Work Sans';
+    font-style: normal;
+    line-height: 23px;
+    text-align: center;
+    color: orangered;
+
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
+    padding-left: 8px;
+    padding-right: 10px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    font-size: 16px;
+    border: none;
+    box-shadow:round ;
+
+
+
+}
+.s1{
+   font-family: 'Work Sans';
+}
+a{
+    padding: 3px;
+}
